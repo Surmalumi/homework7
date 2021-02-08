@@ -29,6 +29,7 @@ class Cell:
         return result
 
 
+
 cell = Cell(12)
 cell_2 = Cell(5)
 print(cell + cell_2)
